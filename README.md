@@ -6,7 +6,3 @@
 ## 运行方式
 ```bash
 python main.py
-
-Star 一下支持我 😄
-
-yaml
